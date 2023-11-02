@@ -1,0 +1,6 @@
+[submodule "fortune-tracker-docker"]
+	path = fortune-tracker-docker
+	url = https://github.com/yu-niverse/fortune-tracker-docker.git
+[submodule "fortune-tracker-api"]
+	path = fortune-tracker-api
+	url = https://github.com/yu-niverse/fortune-tracker-api.git

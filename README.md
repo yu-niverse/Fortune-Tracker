@@ -35,7 +35,7 @@ You can view the status of the containers by running
 docker compose --env-file app.env ps
 ```
 
-The log files will be under `logs` directory or view the logs manually by running
+The log files will be under `api/logs` directory or view the logs manually by running
 
 ```
 docker compose --env-file app.env logs <service_name>

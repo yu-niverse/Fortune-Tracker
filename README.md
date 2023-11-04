@@ -22,7 +22,13 @@ Follow the following steps to run the service :
     chmod +x fortune-tracker-docker/install.sh
     ./fortune-tracker-docker/install.sh
     ```
-2. Configure your own `app.env`
+2. Init Submodule
+
+   ```
+   git submodule init
+   git submodule update --remote
+   ```
+4. Configure your own `fortune-tracker-docker/app.env`
    
 ### Run the Service
 ```

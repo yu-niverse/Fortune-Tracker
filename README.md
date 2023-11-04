@@ -15,20 +15,22 @@ cd Fortune-Tracker
 Follow the following steps to run the service :
 
 ### Prerequisites
-1. Install Docker and Docker Compose
+1. Executing environment: Linux (Ubuntu)
+   <br/> or you can build the docker image yourself from `fortune-tracker-api`
+3. Install Docker and Docker Compose
     <br/>( you can run the following script to install the same version )
    
     ```
     chmod +x fortune-tracker-docker/install.sh
     ./fortune-tracker-docker/install.sh
     ```
-2. Init Submodule
+4. Init Submodule
 
    ```
    git submodule init
    git submodule update --remote
    ```
-4. Configure your own `fortune-tracker-docker/app.env`
+5. Configure your own `fortune-tracker-docker/app.env`
    
 ### Run the Service
 ```

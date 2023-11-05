@@ -3,6 +3,10 @@
 ## About This Project
 This is a backend api service integrated with MariaDB and MongoDB for an application that manages your daily ledgers. Users can hold personal and shared ledgers to record their daily transactions more conveniently.
 
+The system architecture is as follow : 
+
+<img src="imgs/tech-struct.png" width="80%">
+
 ## Usage
 You can view the API document here : []
 

@@ -8,7 +8,9 @@ The system architecture is as follow :
 <img src="imgs/tech-struct.png" width="80%">
 
 ## Usage
-You can view the API document here : []
+You can view the API document here : [Fortune Tracker API Document](https://chiehyu.notion.site/Fortune-Tracker-API-Doc-b227f7322b45432faa87bcfd3442343d?pvs=4)
+
+<hr/>
 
 ## Run Fortune-Tracker API Yourself
 First clone this repository: 
